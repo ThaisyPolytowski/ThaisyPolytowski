@@ -1,5 +1,5 @@
 @@ -1,10 +1,10 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao perfil do ThaisyPolytowski 😁
 
  <div>
   <a href="https://github.com/ThaisyPolytowski">
